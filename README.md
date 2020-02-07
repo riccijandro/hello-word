@@ -1,2 +1,4 @@
 # hello-word
-just another repository
+hola
+la programacion mi pasion
+un loco visionario
